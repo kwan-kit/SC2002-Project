@@ -12,6 +12,7 @@ public class Test1 {
 		{
 			System.out.println("tester");
 		}
+		int p = 50;
 
 	}
 
