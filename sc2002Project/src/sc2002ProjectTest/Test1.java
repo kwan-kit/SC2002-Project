@@ -8,6 +8,10 @@ public class Test1 {
 		int j = 10;
 		int i = 19;
 		System.out.println("Hello World");
+		if (i<j)
+		{
+			System.out.println("tester");
+		}
 
 	}
 
